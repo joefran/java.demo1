@@ -1,2 +1,2 @@
 # java.demo1
-Demo Java Project
+This is a demo project used for testing
